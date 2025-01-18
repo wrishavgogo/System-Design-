@@ -18,3 +18,7 @@ It covers from BCE to 20,000 years , Probably human Race is gone by then .
 
 
 ToDo: Go Through the implementation of Connection Pooling to understand how it works . 
+
+
+
+ToDo : Google Search , "Even Though dataBase servers have 2 ports , how does it maintain 30,000 tcp connections open in Connection Pooling" Answer that . 
