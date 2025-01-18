@@ -16,3 +16,5 @@ Here Arpit said that what if there was a way you could use 6 bytes to represent 
 ToDo : Recommended to read the paper on "How MySql stores dateTime" 
 It covers from BCE to 20,000 years , Probably human Race is gone by then . 
 
+
+ToDo: Go Through the implementation of Connection Pooling to understand how it works . 
